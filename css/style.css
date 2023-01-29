@@ -131,6 +131,10 @@ h6 {
 /*service-section start */
 .servise-section {}
 
+.servise-section .main-div:hover{
+    box-shadow: rgba(102, 1, 77, 0.301) 2px 4px 6px;
+
+}
 .servise-section .main-div {
     padding: 10px;
     text-align: center;
@@ -213,9 +217,12 @@ h6 {
     margin-bottom: 80px;
 }
 
+.portfolio-section .main-div:hover{
+    box-shadow: rgba(102, 1, 77, 0.301) 2px 4px 6px;
+
+}
 .portfolio-section .main-div {
     width: 100%;
-
     position: relative;
 }
 
@@ -269,6 +276,10 @@ h6 {
     margin-bottom: 80px;
 }
 
+.team-section .main-div:hover{
+    box-shadow: rgba(102, 1, 77, 0.301) 2px 4px 6px;
+
+}
 .team-section .main-div {
     width: 99%;
 
@@ -328,6 +339,10 @@ h6 {
     margin-bottom: 80px;
 }
 
+.testimonial-section .main-div:hover{
+    box-shadow: rgba(102, 1, 77, 0.301) 2px 4px 6px;
+
+}
 .testimonial-section .main-div {
     padding: 10px;
     text-align: center;
