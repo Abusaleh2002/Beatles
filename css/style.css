@@ -226,7 +226,7 @@ h6 {
     align-items: center;
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
     width: 0%;
     height: 100%;
     opacity: 0;
@@ -270,7 +270,7 @@ h6 {
 }
 
 .team-section .main-div {
-    width: 100%;
+    width: 99%;
 
     position: relative;
 }
@@ -287,8 +287,9 @@ h6 {
     visibility: hidden;
 }
 
+
 .team-section .main-div:hover .icon-div {
-     width: 33%;
+     width: 32%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -300,7 +301,7 @@ h6 {
 
 .team-section .icon-div a {
     margin: 8px 0px;
-    padding: 10px;
+    padding: 6px;
     border-radius: 50%;
     border: 1px solid white;
     font-size: 14px;
